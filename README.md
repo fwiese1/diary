@@ -22,3 +22,6 @@ Fertigstellung der verschienden Arten der API's
 
 #####2.11.2017 14:22 - 15:44#####
 Start und Ende  mit REST  
+
+###Zusammenfassung Vorlesung 3
+07.11.2017 Teil 2 der Vorlesung 13:45 - 15:00
