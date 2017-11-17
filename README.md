@@ -24,3 +24,4 @@
 |:-:	|:-:	|
 |15.11.2017 | 18:30 - 19:30| Was ist Passport JS |
 |16.11.2017 | 13:30 - 15:00| Start Vortrag mit PowerPoint |
+|17.11.2017 | 10:00 - 14:00 | Gruppenmeeting |
