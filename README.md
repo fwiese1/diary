@@ -25,3 +25,11 @@
 |15.11.2017 | 18:30 - 19:30| Was ist Passport JS |
 |16.11.2017 | 13:30 - 15:00| Start Vortrag mit PowerPoint |
 |17.11.2017 | 10:00 - 14:00 | Gruppenmeeting |
+
+### Woche 4 
+
+| Zusammenfassung 
+|:-:	|:-:	|
+|21.11.2017 | 11:00 - 13:00 | Zusammenfassung Vorlesung 6|
+|23.11.2017 | 16:00 - 17:00 | Zusammenfassung Issues Fix |
+|24.11.2017 | 10:00 - 14:00 | Gruppenmeeting |
